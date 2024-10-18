@@ -1,0 +1,37 @@
+
+
+/* Body styles */
+body {
+    font-family: Arial;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* Header styles */
+header {
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+/* Link styles */
+a {
+    color: #ffffff;
+    
+}
+
+
+#t1{
+    text-align: center;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+}
+#vid{
+    float:center;
+    width: 200px;
+    height:200px;
+}
+
